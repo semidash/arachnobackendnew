@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "arachnobackendnew",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "85e201c1-0743-4b8c-b348-461b2e795a3c",
+			"database_name": "DB"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
